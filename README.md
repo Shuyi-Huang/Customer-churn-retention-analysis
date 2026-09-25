@@ -4,8 +4,8 @@ Customer churn analysis, segmentation and predictive modelling to support custom
 Customer churn & retention analysis
 
 Contents 
-Executive Summary ....................................................................................................... 2 
-1. Summary of Key Findings ........................................................................................... 2 
+Executive Summary 
+1. Summary of Key Findings
 1.1 Customer Segmentation Analysis (PCA + K-Means) ............................................. 2 
 1.2 Churn Prediction Analysis (ANN Model) .............................................................. 3 
 1.3 Key Takeaways Table ......................................................................................... 4 
