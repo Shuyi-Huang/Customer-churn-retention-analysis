@@ -1,0 +1,19 @@
+ANN CUSTOMER CHURN PREDICTIVE MODEL
+====================================
+
+Accuracy  : 0.7282
+Precision : 0.4917
+Recall    : 0.7166
+F1 Score  : 0.5832
+ROC-AUC   : 0.8068
+
+Classification Report
+---------------------
+              precision    recall  f1-score   support
+
+    No Churn       0.88      0.73      0.80      1035
+       Churn       0.49      0.72      0.58       374
+
+    accuracy                           0.73      1409
+   macro avg       0.68      0.72      0.69      1409
+weighted avg       0.77      0.73      0.74      1409
